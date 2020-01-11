@@ -1,0 +1,30 @@
+[
+    {
+        "name": "The Bee Hive",
+        "lastPrefix": "!",
+        "prefix": "!",
+        "role": [
+            "Queens Guard (mod)",
+            "German E-boy",
+            "Queen Bee"
+        ],
+        "discordChannels": [
+            "stream-notifs"
+        ],
+        "twitchChannels": [
+            {
+                "name": "xbeedee",
+                "timestamp": 1578014921645,
+                "online": false
+            }
+        ]
+    },
+    {
+        "name": "Troglodytes",
+        "lastPrefix": "!",
+        "prefix": "!",
+        "role": "botadmin",
+        "discordChannels": [],
+        "twitchChannels": []
+    }
+]
